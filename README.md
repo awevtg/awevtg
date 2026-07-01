@@ -1,4 +1,10 @@
-## Hi there 👋
+hello, i'm awevtg.
+
+learning.
+
+curious about software and ai.
+
+🎧 usually listening to billie eilish or vashti bunyan.
 
 <!--
 **awevtg/awevtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
