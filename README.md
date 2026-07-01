@@ -1,10 +1,10 @@
 hello, i'm awevtg.
 
-learning.
+learning. 
 
 curious about software and ai.
 
-🎧 usually listening to billie eilish or vashti bunyan.
+> 🎧 **currently spinning:** billie eilish / vashti bunyan
 
 <!--
 **awevtg/awevtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
