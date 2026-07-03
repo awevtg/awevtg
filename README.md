@@ -4,6 +4,5 @@ learning.
 
 curious about software and ai.
 
-> 🎧 **currently spinning:** billie eilish / vashti bunyan
-
+> 🎧 **currently spinning:** billie eilish 
 
