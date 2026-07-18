@@ -4,5 +4,5 @@ learning.
 
 curious about software and ai.
 
-> 🎧 **currently spinning:** billie eilish 
-
+> 🎧 **currently spinning:** OK Computer Radiohead
+> 📖 **currently reading:** The Year of Magical Thinking Joan Didion
