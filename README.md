@@ -6,4 +6,4 @@ curious about software and ai.
 
 > 🎧 **currently spinning:** OK Computer Radiohead
 > 
-> 📖 **currently reading:** The Year of Magical Thinking Joan Didion
+> 📖 **currently reading:** Breasts and Eggs by Mieko Kawakami
