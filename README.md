@@ -4,6 +4,6 @@ learning.
 
 curious about software and ai.
 
-> 🎧 **currently spinning:** ランプ幻想 by Lamp
+> 🎧 **currently spinning:** Lost Weekend by Phoebe Bridgers
 > 
 > 📖 **currently reading:** The Metamorphosis by Franz Kafka
